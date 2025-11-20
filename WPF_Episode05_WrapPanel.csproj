@@ -1,6 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <RootNamespace>WPF_Episode05_WrapPanel</RootNamespace>
+    <AssemblyName>WPF_Episode05_WrapPanel</AssemblyName>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net9.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
